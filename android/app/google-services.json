@@ -1,34 +1,34 @@
 {
     "project_info": {
-      "project_number": "1019058355433",
-      "firebase_url": "https://amanat-274d8.firebaseio.com",
-      "project_id": "amanat-274d8",
-      "storage_bucket": "amanat-274d8.appspot.com"
+      "project_number": "",
+      "firebase_url": "https://amana.firebaseio.com",
+      "project_id": "amanat",
+      "storage_bucket": "amana.appspot.com"
     },
     "client": [
       {
         "client_info": {
-          "mobilesdk_app_id": "1:1019058355433:android:988f357c901c742ddc8478",
+          "mobilesdk_app_id": "1:android",
           "android_client_info": {
-            "package_name": "kg.amanat.amanat"
+            "package_name": "kg.amanat"
           }
         },
         "oauth_client": [
           {
-            "client_id": "1019058355433-n408slhio3h1mbfdf4c77brnfgp4levv.apps.googleusercontent.com",
+            "client_id": "apps.googleusercontent.com",
             "client_type": 3
           }
         ],
         "api_key": [
           {
-            "current_key": "AIzaSyCjSDOZBX3ydK8NmvNWYf8ALslZRhnsQlQ"
+            "current_key": ""
           }
         ],
         "services": {
           "appinvite_service": {
             "other_platform_oauth_client": [
               {
-                "client_id": "1019058355433-n408slhio3h1mbfdf4c77brnfgp4levv.apps.googleusercontent.com",
+                "client_id": "apps.googleusercontent.com",
                 "client_type": 3
               }
             ]
